@@ -5,10 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
 </p>
 
-<div style="display: flex; justify-content: center;">
-        <img align="center" src="./assets/Welcome.gif" />
-    </div>
-
 ## About me
 <p align="left">
   
