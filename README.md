@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
 </p>
 
-![Screenshot (1127)](https://github.com/RashidHasan/RashidHasan/assets/136935583/398798b9-8410-4297-b8e6-c99f905d781a)
 
 
 ## About me
@@ -13,7 +12,7 @@
   
 - Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul AzizAl Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
   
-- I’m currently studing `Frontend Development`
+- I’m currently studying `Frontend Development`
   
 - How to reach me `rashedhassan393@gmail.com`
 
