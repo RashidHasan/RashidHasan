@@ -37,7 +37,7 @@
 <p align="left">
 
 
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" /><br>
