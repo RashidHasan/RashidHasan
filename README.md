@@ -40,8 +40,8 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql" /><br>
 </div>
 </p>
 
