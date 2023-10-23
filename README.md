@@ -12,7 +12,7 @@
 </p>
 
 
-## About me:
+## About me
 <p align="left">
   
 - Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul AzizAl Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/rashidhasanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashidhasanq" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+## Languages - Frameworks - Tools
 <p align="left">
 
 
