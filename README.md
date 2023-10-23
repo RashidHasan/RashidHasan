@@ -12,9 +12,7 @@
 </p>
 
 
-<h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=About+me:;" />
-</h3>
+## About me:
 <p align="left">
   
 - Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul AzizAl Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
