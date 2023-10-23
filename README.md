@@ -37,10 +37,11 @@
 <p align="left">
 
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-<img src="https://html,css,vscode,github,tailwind,git" />
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,java,nextjs,mysql" /><br>
 </div>
 </p>
 
