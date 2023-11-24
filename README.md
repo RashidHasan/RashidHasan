@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql" />
-    <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+    <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" /> <br>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 </div>
 </p>
