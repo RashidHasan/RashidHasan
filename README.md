@@ -42,6 +42,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
 </div>
 </p>
 
