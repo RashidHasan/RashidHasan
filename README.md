@@ -17,7 +17,7 @@
   
 - Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul AzizAl Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
   
-- I’m currently studying `Frontend Development`
+- I’m `Full-Stack Web Developer`
   
 - How to reach me `rashedhassan393@gmail.com`
 
