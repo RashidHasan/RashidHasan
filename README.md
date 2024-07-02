@@ -1,16 +1,14 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashid+Hasan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashid+Hasan!;" />
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+working+on+developing+myself;+To+become+a+Full+Stack+Developer.;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+working+on+developing+myself;+To+become+a+Full+Stack+Developer.;">
 </h3>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
 </p>
-
 
 ## About me
 <p align="left">
@@ -24,10 +22,6 @@
 - Always `learning new things` 🔥
 </p>
 
-
-
-
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/rashidhasanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashidhasanq" height="30" width="40" /></a>
@@ -37,8 +31,6 @@
 
 ## Languages-Frameworks-Tools
 <p align="left">
-
-
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
@@ -48,6 +40,3 @@
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 </div>
 </p>
-
-
-
