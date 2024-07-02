@@ -11,7 +11,7 @@
 </p>
 
 ## About me
-<p align="left" style="font-family: Courier New, monospace;">
+<p align="left" style="font-family: Courier New, monospace; font-size: 18px;">
 
 <code>
   &lt;!-- Bachelor's degree in Software Engineering --&gt;
