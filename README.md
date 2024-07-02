@@ -12,14 +12,14 @@
 
 ## About me
 <p align="left" style="font-family: Courier New, monospace;">
-    <img src="https://img.shields.io/badge/Degree-Software%20Engineering-blue?style=flat-square&logo=mortar-board&logoColor=white" alt="Degree Badge"/>
-    <img src="https://img.shields.io/badge/Institution-ASAC-brightgreen?style=flat-square" alt="Institution Badge"/>
-    <img src="https://img.shields.io/badge/Full--Stack%20Developer-Intermediate-yellow?style=flat-square&logo=code&logoColor=white" alt="Full-Stack Developer Badge"/>
-    <img src="https://img.shields.io/badge/Learning-Always-brightgreen?style=flat-square&logo=learning&logoColor=white" alt="Learning Badge"/>
-</p>
 
-<p align="left" style="font-family: Courier New, monospace;">
-    <strong>How to reach me:</strong> <a href="mailto:rashedhassan393@gmail.com">rashedhassan393@gmail.com</a>
+- Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
+  
+- I’m a `Full-Stack Web Developer`
+  
+- How to reach me: `rashedhassan393@gmail.com`
+
+- Always `learning new things` 🔥
 </p>
 
 ## Connect with me
@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/rashidhasanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashidhasanq" height="30" width="40" /></a>
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" alt="Animated coding GIF"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width=250px/>
 
 ## Languages-Frameworks-Tools
 <p align="left">
