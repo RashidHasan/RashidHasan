@@ -11,11 +11,11 @@
 </p>
 
 ## About me
-<p align="left" style="font-family: Courier New, monospace; font-size: 18px;">
+<p align="left" style="font-family: Courier New, monospace; font-size: 24px;">
 
 <code>
   &lt;!-- Bachelor's degree in Software Engineering --&gt;
-  &lt;p&gt;Bachelor's degree in Software Engineering taught by the <code>British Pearson BTEC system</code>, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.&lt;/p&gt;
+  &lt;p&gt; Bachelor's degree in Software Engineering taught by the <code>British Pearson BTEC system</code>, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.&lt;/p&gt;
   
   &lt;!-- Full-Stack Web Developer --&gt;
   &lt;p&gt;I’m a <code>Full-Stack Web Developer</code>&lt;/p&gt;
