@@ -13,13 +13,20 @@
 ## About me
 <p align="left" style="font-family: Courier New, monospace;">
 
-- Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
+<code>
+  &lt;!-- Bachelor's degree in Software Engineering --&gt;
+  &lt;p&gt;Bachelor's degree in Software Engineering taught by the <code>British Pearson BTEC system</code>, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.&lt;/p&gt;
   
-- I’m a `Full-Stack Web Developer`
+  &lt;!-- Full-Stack Web Developer --&gt;
+  &lt;p&gt;I’m a <code>Full-Stack Web Developer</code>&lt;/p&gt;
   
-- How to reach me: `rashedhassan393@gmail.com`
+  &lt;!-- Contact Information --&gt;
+  &lt;p&gt;How to reach me: <code>rashedhassan393@gmail.com</code>&lt;/p&gt;
+  
+  &lt;!-- Always Learning --&gt;
+  &lt;p&gt;Always <code>learning new things</code> 🔥&lt;/p&gt;
+</code>
 
-- Always `learning new things` 🔥
 </p>
 
 ## Connect with me
