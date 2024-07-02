@@ -11,8 +11,8 @@
 </p>
 
 ## About me
-<p align="left" style="font-family: Courier New, monospace;">
-
+<p align="left" style="font-family: 'Courier New', monospace;">
+  
 - Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
   
 - I’m a `Full-Stack Web Developer`
