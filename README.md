@@ -2,10 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashid+Hasan!;" />
 </h1>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=25&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+working+on+developing+myself;+To+become+a+Full+Stack+Developer.;">
-</h3>
-
+ 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
 </p>
