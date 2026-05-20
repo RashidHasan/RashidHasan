@@ -29,13 +29,9 @@ Experienced in developing modern web applications using React.js and Next.js, as
 - Tailwind CSS  
 
 ### Mobile
-- Flutter (Dart) – BLoC Architecture  
+- Flutter (Dart) 
 
 ### Databases
 - PostgreSQL, SQL Server, MongoDB  
 
-### Tools & Practices
-- Git, GitHub  
-- Docker  
-- OOP, Clean Architecture  
-- Agile (Scrum)
+
