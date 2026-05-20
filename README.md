@@ -1,39 +1,41 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashid+Hasan!;" />
-</h1>
+# Rashid Hasan
 
- 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=RashidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="RashidHasan" />
-</p>
+## Software & Quality Engineer
 
-## About me
-<p align="left" style="font-family: Courier New, monospace;">
+Software & Quality Engineer with 2+ years of experience in Full-Stack development using Java and Kotlin. Specialized in building scalable backend systems and high-performance REST APIs using Spring Boot, with hands-on experience in reactive programming (R2DBC) and asynchronous architectures. 
 
-- Bachelor's degree in Software Engineering taught by the `British Pearson BTEC system`, from the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC) affiliated with Luminus Technical University.
-  
-- I’m a `Full-Stack Web Developer`
-  
-- How to reach me: `rashedhassan393@gmail.com`
+Experienced in developing modern web applications using React.js and Next.js, as well as cross-platform mobile applications using Flutter (BLoC). Focused on delivering clean, maintainable, and production-ready solutions following best software engineering practices.
 
-- Always `learning new things` 🔥
-</p>
+---
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/rashidhasanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashidhasanq" height="30" width="40" /></a>
-</p>
+## Contact
+- Phone: 0799747894  
+- Email: rashedhassan393@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rashidhasanq/
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width=250px/>
+---
 
-## Languages-Frameworks-Tools
-<p align="left">
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql" />
-    <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" /> <br>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
-</div>
-</p>
+## Technologies
+
+### Backend
+- Java, Kotlin  
+- Spring Boot (JPA, JDBC, R2DBC)  
+- REST APIs, WebSocket  
+- Asynchronous & Reactive Programming  
+
+### Frontend Web
+- React.js, Next.js  
+- TypeScript, JavaScript  
+- Tailwind CSS  
+
+### Mobile
+- Flutter (Dart) – BLoC Architecture  
+
+### Databases
+- PostgreSQL, SQL Server, MongoDB  
+
+### Tools & Practices
+- Git, GitHub  
+- Docker  
+- OOP, Clean Architecture  
+- Agile (Scrum)
