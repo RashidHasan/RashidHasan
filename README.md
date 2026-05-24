@@ -10,7 +10,7 @@ Experienced in developing modern web applications using React.js and Next.js, as
 
 ## Contact
 - Phone: 0799747894  
-- Email: rashedhassan393@gmail.com  
+- Email: rashedhasanq@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/rashidhasanq/
 
 ---
